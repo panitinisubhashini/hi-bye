@@ -6,3 +6,4 @@ i know some commands in commit,branch,checkout
 This repository is built step by step in the tutorial.
 i want to pull a request 
 directly without fetch and merge
+i want to change code fron local repo
